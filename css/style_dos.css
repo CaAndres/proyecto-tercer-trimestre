@@ -1,0 +1,23 @@
+
+
+      body{background-image: url('../images/bateria de fondo.jpg');  background-attachment: fixed; }
+      p{font-family: times; font-size: 16px; font-weight: bold}
+      h1{color: #b70202; font-family: times, arial, impact;}
+      h2{color:#b70202; font-family: times; }
+      h3{color: #b70202; font-family: times, arial, impact; }
+      label{font-weight: bold}
+      #cont{
+         
+          margin: 5% 10% 5% 10%;
+          border: 3px solid #ccc;
+          background-image: url(  '../images/juegos_banner.png' ) ;           
+          padding: 0 10px 10px 10px;
+        }
+      
+      .mh1 {color: #fff; font-size: 20px; float:left;}
+      #mi1h1{color: #000;font-family: times , arial, impact; font-size: 36px;}
+      #mi2h1{color: #ce3030; font-family: times , arial, impact; font-size:36px;}
+      .ta{ color: #fff; font-family: arial; impact; times; font-size: 16px}
+      #mip p{color: #fff}
+      #container{margin:0 20% 0% 20%;}
+      .mh2{color: #fff; font-size: 20px; }

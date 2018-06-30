@@ -1,0 +1,17 @@
+#foot{
+          width: 100%;
+          background-color: #b96757;
+          padding: 0px;
+          height: 180px;
+          float:left;
+          border: 0px ;
+         }
+         .divfoot{width: 300px; height: auto;  float: left; display: inline-block;}
+         .spanfoot{font-size: 20px; font-family: times; font-weight: bold; color: #fff;}
+         .a12{display: block;color: #fff; text-align: center;padding: 10px 10px; text-decoration: none;}
+         .link1{ width:17% text-alguin: center;}
+         .MMh1{color: #f1f5e9; font-size:40px;}
+          body{background-color: #f1f5e9;}
+          .aap{font-size: 16px; color: #FFF; 
+          }
+          .menus{color:#ba1f1f }
